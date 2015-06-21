@@ -6,7 +6,6 @@ Steps to work on this course project:
 1.Download and unzip the file (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) under current working directly. You will obtain data file “UCI HAR Dataset”.
 
 2. Create run_analysis.R under folder “UCI HAR Dataset”. Set “./UCI HAR Dataset” as working directly by setwd().
-
 This run_analysis.R script perform the following work about this data file:
 a.Reformat the test and train data set separately, using measurement variables as column names. Two separate columns subject (30 volunteers) and activity (6 activities: WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) are added to each data set.
 b. Merge two data sets (train and test) into complete data set (completedata)
