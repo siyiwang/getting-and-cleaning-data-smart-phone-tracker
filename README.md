@@ -1,5 +1,5 @@
 # getting-and-cleaning-data-smart-phone-tracker
-Steps to work on this course project:
+##Steps to work on this course project:
 1.Download and unzip the file (http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) under current working directly. You will obtain data file “UCI HAR Dataset”.
 2. Create run_analysis.R under folder “UCI HAR Dataset”. Set “./UCI HAR Dataset” as working directly by setwd().
 This run_analysis.R script perform the following work about this data file:
