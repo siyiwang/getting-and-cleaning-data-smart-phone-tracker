@@ -1,5 +1,5 @@
-*1.Download and unzip the file under current working directly.* ```
-*2. Create run_analysis.R under folder “UCI HAR Dataset”. Set “./UCI HAR Dataset” as working directly by setwd().*```
+**1.Download and unzip the file under current working directly.** 
+**2. Create run_analysis.R under folder “UCI HAR Dataset”. Set “./UCI HAR Dataset” as working directly by setwd().**
 This run_analysis.R script perform the following work about this data file:
   *Reformat the test and train data set separately, using measurement variables as column names. Two separate columns subject  and 6 activities are added to each data set.
   * Merge two data sets (train and test) into complete data set (completedata)
